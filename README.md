@@ -33,8 +33,6 @@ Must be installed and accessible in your system's PATH. You can check this by op
 Installation & Setup
 Clone the repository:
 
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
 
 Create and activate a virtual environment:
 
